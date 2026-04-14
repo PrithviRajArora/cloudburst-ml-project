@@ -60,14 +60,14 @@ Project 3/
 
                       ## Project Phases
 
-                      The notebook is organised into four phases corresponding to the project rubric:
+                      The notebook is organised into four major steps corresponding to the project rubric:
 
-                      | Phase | Description |
+                      | Step | Description |
                       |-------|-------------|
-                      | Phase 1 | Data Understanding and Preprocessing |
-                      | Phase 2 | Supervised Learning |
-                      | Phase 3 | Optimisation and Unsupervised Learning |
-                      | Phase 4 | Advanced Models |
+                      | Step 1 | Data Understanding and Preprocessing |
+                      | Step 2 | Supervised Learning |
+                      | Step 3 | Optimisation and Unsupervised Learning |
+                      | Step 4 | Advanced Models |
 
                       ---
 
