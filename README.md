@@ -19,7 +19,7 @@ Project 3/
 
 ## Dataset
 
-- Source: Kaggle CloudBurst Dataset
+- Source: Kaggle CloudBurst Dataset: https://www.kaggle.com/datasets/akshat234/cloudburst
 - - Size: 145,460 rows, 23 columns
   - - Coverage: Multiple Australian cities (Albury, etc.)
     - - Target Variable: CloudBurstTomorrow
