@@ -2,13 +2,12 @@
 
 ---
 
-**Student Name:** Prithvi Raj Arora  
-**Roll Number:** [ROLL_NO]  
+**Student Name:** Prithviraj Arora  
+**Roll Number:** 2023BTCSE025L  
 **Course:** Machine Learning  
 **Semester:** 6  
 **Institution:** Jagran Lakecity University (JLU)  
 **Date:** April 2026  
-**Submission File:** `PrithviRajArora_[ROLL_NO]_MLProject.pdf`
 
 ---
 
